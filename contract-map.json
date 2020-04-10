@@ -765,7 +765,7 @@
   },
   "0xD8912C10681D8B21Fd3742244f44658dBA12264E": {
     "name": "Pluton",
-    "logo": "plutus-god.svg",
+    "logo": "Pluton.png",
     "erc20": true,
     "symbol": "PLU",
     "decimals": 18
